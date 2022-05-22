@@ -1,5 +1,5 @@
 ##############################################
-# $Id: 14_Hideki.pm 21666 2022-04-21 20:46:08Z HomeAutoUser $
+# $Id: 14_Hideki.pm 21666 2022-05-22 20:42:38Z HomeAutoUser $
 #
 # It is part of the SIGNALduinos project.
 # https://github.com/RFD-FHEM/RFFHEM | see http://www.fhemwiki.de/wiki/SIGNALduino
